@@ -24,6 +24,8 @@ I've built my own personal AI assistant ecosystem. It's a central "brain" (NestJ
 ### 🕹️ GitHub Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/christiancabp/christiancabp/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=christiancabp&theme=tokyonight&bg_color=1a1b27&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
