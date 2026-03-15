@@ -21,11 +21,22 @@ I've built my own personal AI assistant ecosystem. It's a central "brain" (NestJ
 
 ---
 
-### 🕹️ GitHub Contribution Snake
+### 🕹️ Interactive Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/christiancabp/christiancabp/output/github-contribution-grid-snake.svg" alt="Snake Game" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=christiancabp&theme=tokyonight&bg_color=1a1b27&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+### ♟️ Play Chess against the Community!
+This is a live chess game where anyone visiting my profile can make a move by clicking the links below.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/christiancabp/christiancabp/chess-output/chess_board.png" alt="Chess Board" />
+</div>
+<div align="center">
+  <a href="https://github.com/christiancabp/christiancabp/issues/new?title=Chess+Move&body=Please+don%27t+change+the+title.+Enter+your+move+in+standard+algebraic+notation+(e.g.,+e4,+Nf3).">Click here to make your move! 🚀</a>
 </div>
 
 ---
