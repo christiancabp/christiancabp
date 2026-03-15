@@ -30,23 +30,12 @@ I've built my own personal AI assistant ecosystem. It's a central "brain" (NestJ
 
 ---
 
-### ♟️ Play Chess against the Community!
-This is a live chess game where anyone visiting my profile can make a move by clicking the links below.
-<div align="center">
-  <img src="https://raw.githubusercontent.com/christiancabp/christiancabp/chess-output/chess_board.png" alt="Chess Board" />
-</div>
-<div align="center">
-  <a href="https://github.com/christiancabp/christiancabp/issues/new?title=Chess+Move&body=Please+don%27t+change+the+title.+Enter+your+move+in+standard+algebraic+notation+(e.g.,+e4,+Nf3).">Click here to make your move! 🚀</a>
-</div>
-
----
-
 ### 🚀 Long Term Mission
 Transitioning into the **Space Industry**. I'm currently finishing my CS degree part-time while working as a Fullstack Engineer. My goal is to bridge the gap between web technologies and aerospace robotics.
 
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/christianbermeo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/christian-bermeo-679023185/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:christiancabp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
