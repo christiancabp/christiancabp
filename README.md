@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I'm a fullstack engineer who likes building cool s
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Engineer;AI+%26+Robotics+Builder;Space+Industry+Aspirant;CS+%40+Columbia+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Engineer;AI+%26+Robotics+Builder;Space+Industry+Aspirant)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-bermeo-679023185/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://christian-bermeo.netlify.app/)
